@@ -1,0 +1,11 @@
+[10-Dec-2016 20:34:34 UTC] PHP Fatal error:  Call to undefined function array_column() in /home/anshuldec7/public_html/marketplace/cart.php on line 8
+[10-Dec-2016 21:11:26 UTC] PHP Fatal error:  Call to undefined function array_column() in /home/anshuldec7/public_html/marketplace/cart.php on line 8
+[10-Dec-2016 21:11:41 UTC] PHP Fatal error:  Call to undefined function array_column() in /home/anshuldec7/public_html/marketplace/cart.php on line 8
+[10-Dec-2016 21:11:52 UTC] PHP Fatal error:  Call to undefined function array_column() in /home/anshuldec7/public_html/marketplace/cart.php on line 8
+[10-Dec-2016 21:12:45 UTC] PHP Fatal error:  Call to undefined function array_column() in /home/anshuldec7/public_html/marketplace/cart.php on line 8
+[10-Dec-2016 21:13:04 UTC] PHP Fatal error:  Call to undefined function array_column() in /home/anshuldec7/public_html/marketplace/cart.php on line 8
+[10-Dec-2016 21:13:20 UTC] PHP Fatal error:  Call to undefined function array_column() in /home/anshuldec7/public_html/marketplace/cart.php on line 8
+[10-Dec-2016 21:13:33 UTC] PHP Fatal error:  Call to undefined function array_column() in /home/anshuldec7/public_html/marketplace/cart.php on line 8
+[12-Dec-2016 19:49:02 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/anshuldec7/public_html/marketplace/trackUser.php on line 29
+[12-Dec-2016 19:49:19 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/anshuldec7/public_html/marketplace/trackUser.php on line 29
+[12-Dec-2016 19:50:00 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/anshuldec7/public_html/marketplace/trackUser.php on line 29
