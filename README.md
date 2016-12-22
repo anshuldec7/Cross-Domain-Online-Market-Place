@@ -12,4 +12,4 @@
 - Google Map Integration (Store Locator)
 - Social Network Follow/share plugin (Twitter, LinkedIn, Facebook, Google+)
 - Product Recommendation (Based on purchase and User activity)
-- User Activity Tracker (Where user has visited, what he purchased, Patter analysis)
+- User Activity Tracker (Where user has visited, what he purchased, Pattern analysis)
